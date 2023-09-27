@@ -5,8 +5,6 @@ var abc;
 
 // fist
 // var xyz;
-// var abc;
-
 
 // second
 // var qwe;
